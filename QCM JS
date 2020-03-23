@@ -105,9 +105,9 @@ What is the value of x?
 
 # Q16 Which of the following is the correct way of returning the length of this string?
 
-.A :  length("hello") 👍️
+.A :  length("hello") 
 .B :  length."hello"
-.C :  "hello".length
+.C :  "hello".length 👍️
 
 # Q17 What will be output of below statements?
 
