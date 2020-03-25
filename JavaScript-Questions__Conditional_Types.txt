@@ -8,9 +8,9 @@
 
 # Q2 When is it required to use curly brackets {} for the body of the if statement ?
 
-.A :  Always 👍️
+.A :  Always 
 .B :  Never
-.C :  When the body has multiple statements
+.C :  When the body has multiple statements 👍️
 
 # Q3 What will be output of the following code fragment ?
 
@@ -330,7 +330,7 @@ else
 let name ="Amira"
 console.log( height > 1.75 ? "Allani" : "Mezrigui")
 
-.A :  Allani 👍
+.A :  Allani 
 .B :  Mezrigui
 .C :  Amira
 
