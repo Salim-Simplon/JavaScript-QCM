@@ -339,10 +339,10 @@ console.log( height > 1.75 ? "Allani" : "Mezrigui")
 let name ="Syrine" 
 console.log(name === "Syrine" ? "Hi! I'm Syrine" 
 
-.A :  "Hi! I'm Syrine" 👍
+.A :  "Hi! I'm Syrine" 
 .B :  "Syrine"
 .C :   ""
-.D : SyntaxError              
+.D : SyntaxError 👍              
 
 # Q25 What's the value of the expression 5 > 10 ? 'one' : 5 > 7 ? 'two'  : 'three
 
