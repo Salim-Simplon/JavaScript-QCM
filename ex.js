@@ -109,11 +109,34 @@ function onlyCase(str) {
 }
 console.log(onlyCase("SALIM"))
 /******/
-function checkEnding(str1,  str2) { return }
+function AlphabetSoup(str) { 
+    return str.split('').sort().join('').trim()
+}
+console.log(AlphabetSoup("SALIM"))
 /******/
-function incrementOrDecrement(num1,  num2) { return }
+function checkEnding(str1,  str2) { 
+if (str1.lastIndexOf("")==str2.lastIndexOf(""))
+    return true
+else
+    return false
+}
+console.log(checkEnding("stn","bon"))
 /******/
-function  toString(num) { return }
+function incrementOrDecrement(num) { 
+if ((num % 2)==0)
+    return num - 1
+else
+    return num + 1
+}
+console.log(incrementOrDecrement(10))
+/******/
+function toString(str1,str2) { 
+    if (parseInt(str1)>parseInt(str2))
+        return str2
+    else
+        return str1
+}
+console.log(toString("100","12"))
 
 
 
