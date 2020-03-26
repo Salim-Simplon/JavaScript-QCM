@@ -37,11 +37,11 @@
 
                console.log(msg)
 
-.A :  "You succeed" 👍️
+.A :  "You succeed" 
 .B :  "You don't succeed"
 .C :  "in this year"  
 .D :  "You don't succeed in this year"
-.E : "You succeed in this year "
+.E : "You succeed in this year " 👍️
 
 # Q5  What will be output of the following code fragment ?
           
@@ -125,16 +125,16 @@ else
 
 # Q10   What happens when an If statements conditional is not true?
 
-.A :  nothing
-.B :  The If statement starts over 
-.C :  The If statement executes 👍
+.A :  nothing 
+.B :  The If statement starts over 👍
+.C :  The If statement executes 
 
 # Q11 . How to write an ‘if’ statement for executing some code.
 If “i” is NOT equal to 5?
 
-.A : if(i<>5) 👍
+.A : if(i<>5) 
 .B : if i<>5
-.C : if(i!=5)
+.C : if(i!=5) 👍
 .D : if i!=5
 
 
@@ -188,15 +188,15 @@ switch (month) {
 
 # Q14 Curly braces {} are required in cases :
 
-.A :  true 👍
-.B : false 
+.A :  true 
+.B : false 👍
 
 
 
 # Q15 Curly braces {} are required in switch :
 
-.A :  true
-.B : false 👍  
+.A :  true 👍 
+.B : false  
 
  
 
@@ -297,7 +297,7 @@ console.log(result)
 .A :  Answer 1
 .B :  Answer 2
 .C :  Answer 3 👍
-.D :  Answer 4 
+.D :  Answer 4 👍
 
 # Q22 The statement let y = x < 3 ? 4 : 8  means:
 
