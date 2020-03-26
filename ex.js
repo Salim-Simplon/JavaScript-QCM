@@ -101,10 +101,8 @@ function swappName(Name, LastName) {
 }
     console.log(swappName("salim","amri"))  
 /******/
-function AlphabetSoup(str) { return }
-/***XXX***/
 function onlyCase(str) { 
-    if ((str===str.toUpperCase)||(str===str.toLowerCase))
+    if (str==str.toUpperCase() || str==str.toLowerCase())
         return true 
     else
         return false
