@@ -63,12 +63,12 @@ else
 console.log(isDevideBy(20,3))
 /********/
 function moodToday(mood) {
-if (mood==="happy")
-    return "Today, I am feeling happy"
+if (mood!=undefined)
+    return "Today, I am feeling " + mood
 else
     return "Today, I am feeling neuter"
 }
-console.log(moodToday(""))
+console.log(moodToday("fine"))
 /********/
 function isEvenOrOdd(num) {
     if ((num % 2)===0)
