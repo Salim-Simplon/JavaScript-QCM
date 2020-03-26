@@ -85,19 +85,16 @@ function match(str1,str2) {
     return "false"
 }
 console.log(match("hi","HI"))
-/****XXXX****/
+/*******/
 function getCase(str) { 
-    if (str===str.toUpperCase){
+    if (str==str.toUpperCase())
         return "upper" 
-    }
-    else if (str===str.toLowerCase){
+    else if (str==str.toLowerCase())
         return "lower"
-    }
-    else {
+    else
         return "mixed"
-    }
 }
-console.log(getCase("SALIM"))
+console.log(getCase("salim"))
 /******/
 function swappName(Name, LastName) {
     return LastName +" "+ Name
