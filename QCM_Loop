@@ -305,7 +305,7 @@ for (let x of array){
 }
                            
 .A  : Loop 1
-.B  : Loop 2 👍
+.B  : Loop 2 
 .C  : Loop 3 👍
 
 # Q19  What does the following snippet output?
@@ -332,8 +332,8 @@ for (let prop in obj) {
 console.log(str)
 
 .A  : "abc" 
-.B  : "123"
-.C  : "a:1 b:2 c:3" 👍
+.B  : "123" 👍
+.C  : "a:1 b:2 c:3" 
 
 # Q21 Can we use for..in loop for iterating over a string ?
 
