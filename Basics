@@ -134,8 +134,8 @@ function myFunction(a, b) {
 myFunction(4, 3)
 
 .A :  4 
-.B :  12 👍️
-.C :  undefined
+.B :  12 
+.C :  undefined 👍️
 .D :  null
 .E :  Error
 
@@ -172,9 +172,9 @@ function test(num) {
   console.log(num)
 }
 
-.A  : Error 
+.A  : Error 👍️
 .B  : 1
-.C  : undefined 👍️
+.C  : undefined 
 .D  : null
 
 # Q20 What’s a recursive function? 
